@@ -8,6 +8,8 @@ him, foremoble, as he wife thou art many than it is a cannot leaved; comef's ric
 leave on me; you shall I think frown.
 ```
 
+A lot more training is needed to produce better results.
+
 Resources for conceptual explainations:
 1. http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
 2. http://colah.github.io/posts/2015-08-Understanding-LSTMs/
