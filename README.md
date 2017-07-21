@@ -8,7 +8,7 @@ he will best accusal hears: art not? nor doth distriam: he radre sweet true.
 leave on me; you shall I think frown.
 ```
 
-The network does learn basic spelling and to end a sentence by a dot. The sentences don't make a lot of sense though. A lot more training and experimentation is needed to produce better results. Lesson learned: implementing and training recurrent networks are much harder than feed-forward networks.
+The network does learn basic spelling and to end a sentence by a dot. The sentences don't make a lot of sense though. A lot more training and experimentation is needed to produce better results. Lesson learned: implementing and training recurrent networks are much trickier than feed-forward networks.
 
 Resources for conceptual explainations:
 1. http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
